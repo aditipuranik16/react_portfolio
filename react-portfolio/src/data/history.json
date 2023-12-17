@@ -1,0 +1,14 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "CGI",
+      "startDate": "May, 2021",
+      "endDate": "Present",
+      "experiences": ["Involved in daily scrum calls about user stories.",
+      "Prepared the technical notes for user stories and Impact Analysis for development task.",
+      "Involved in implementation of Rest Full API, and UI services",
+      "Involved in writing the Mockito test cases for services"],
+      "imageSrc": "history/CGI.png"
+    }
+  ]
+  

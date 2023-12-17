@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Product listing page",
+      "imageSrc": "projects/product_list.png",
+      "description": "Added header, product card with some information and button and a footer.",
+      "skills": ["React", "HTML", "CSS", "SCSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/aditipuranik16/react_product_listing_page"
+    },
+    {
+      "title": "To do list",
+      "imageSrc": "projects/todolist.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/aditipuranik16/To-Do-List"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
